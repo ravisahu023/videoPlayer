@@ -130,5 +130,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun showInContextUI() {
         TODO("Not yet implemented")
+        //show rationale here
     }
 }
